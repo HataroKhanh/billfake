@@ -1,3 +1,3 @@
-while (1){
-    confirm("NGUUUUUU")
-}
+setInterval(function() {
+    alert("NGU");
+}, 1000);
